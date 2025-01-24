@@ -22,7 +22,7 @@ break is not needed in a wider output rendering.
 
 ]>
 
-<book id="postgres" lang="zh_cn">
+<book id="postgres" lang="en_us">
 <!-- pgdoc-cn_start sig_en=3d885c3cab7ee0d0c959c7f2016ad7dd sig_cn_org=3d885c3cab7ee0d0c959c7f2016ad7dd source=14.1 
  <title>PostgreSQL &version; Documentation</title>
 ________________________________________________________-->
